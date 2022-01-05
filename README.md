@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Docker, Kubernetes, AWS, C# Maui**
 
-- 👯 I’m looking to collaborate on [AppWrite](https://appwrite.io/)
-
 - 👨‍💻 All of my projects are available at [https://smart-dev.com.co](https://smart-dev.com.co)
 
 - 💬 Ask me about **VueJs, Flutter, IT infrastructure, IT security, Operating systems**
